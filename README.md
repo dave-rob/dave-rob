@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A passionate Full-Stack developer in Colorado</h3>
 
-- 🔭 I’m currently working on [Fit Fusion](https://github.com/Syntax-Samurais/Website)
+- 🔭 I’m currently working on mini projects to expand my growth as a Full Stack Developer
 
 - 🌱 I’m currently learning **more about Python and utilizing it into my websites**
 
